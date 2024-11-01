@@ -4,7 +4,7 @@
 
 # DATE : 
 
-# EX NO 3: SIMULATION AND IMPLEMENTATION OF SWAPPING OF THREE NUMBERS
+# EX NO 3: SIMULATION AND IMPLEMENTATION OF SWAPPING OF THREE NUMBERS IN VERILOG HDL
 
 ## AIM
 To design and simulate a Verilog HDL code for swapping the values of three numbers without using any temporary variables, and verify the correctness of the swapping operation through a testbench using the Vivado 2023.1 simulation environment.
